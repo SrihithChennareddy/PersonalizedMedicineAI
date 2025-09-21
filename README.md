@@ -4,7 +4,7 @@ A web-based AI chatbot using LLaMA + RAG to provide accessible, personalized hea
 
 Here’s a preview of the app:
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./assets/chatbot.png)
 
 ## Getting Started
 
