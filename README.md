@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+A web-based AI chatbot using LLaMA + RAG to provide accessible, personalized healthcare information
 
 ## Getting Started
 
