@@ -43,9 +43,9 @@ Here’s a preview of the app:
 
 ![App Screenshot](./assets/chatbot.png)
 
-## Presentation
+# Presentation
 
 Check out our presentation here:
 
-<iframe src="./presentation/Personalized_Medicine_AI_Presentation.pdf" width="100%" height="600px"></iframe> 
+[View Presentation PDF](./presentation/Personalized_Medicine_AI_Presentation.pdf)
 
