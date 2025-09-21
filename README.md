@@ -47,5 +47,5 @@ Here’s a preview of the app:
 
 Check out our presentation here:
 
-<iframe src="./presentation/PersonalizedMedicineAIPresentation.pdf" width="100%" height="600px"></iframe>
+<iframe src="./presentation/Personalized_Medicine_AI_Presentation.pdf" width="100%" height="600px"></iframe> 
 
