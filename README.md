@@ -2,10 +2,6 @@
 
 A web-based AI chatbot using LLaMA + RAG to provide accessible, personalized healthcare information
 
-Here’s a preview of the app:
-
-![App Screenshot](./assets/chatbot.png)
-
 ## Getting Started
 
 First, run the development server:
@@ -41,7 +37,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+## Preview
 
+Here’s a preview of the app:
+
+![App Screenshot](./assets/chatbot.png)
 
 
 
